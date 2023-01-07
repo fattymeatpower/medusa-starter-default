@@ -149,7 +149,7 @@ Visit [docs.medusa-commerce.com](https://docs.medusa-commerce.com) for further g
     Twitter
   </a>
   |
-  <a href="https://docs.medusa-commerce.com">
+  <a href="https://docs.medusajs.com">
     Docs
   </a>
 </p>
